@@ -1,0 +1,6 @@
+---
+title: Usi e Caratteristiche
+draft: false
+tags:
+---
+La [[Magia Arcana]] non viene vista di buon occhio nel Regno Draconico. L’unica magia permessa per legge è la [[Magia Selvaggia]]. Chiunque faccia uso della [[Magia Arcana]] viene considerato un criminale e un traditore della patria se è nato o vive nel Regno Draconico.
