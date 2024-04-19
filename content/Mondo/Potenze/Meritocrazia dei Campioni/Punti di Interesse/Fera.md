@@ -1,0 +1,1 @@
+È la capitale di tutte e cinque le tribù. Qui si uniscono per prendere decisioni importanti e di comune interesse, oltre che per festeggiare e pregare i loro dei.
