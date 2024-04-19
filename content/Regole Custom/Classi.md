@@ -1,3 +1,8 @@
+---
+title: Classi
+draft: false
+tags:
+---
 ### Artefice
 La classe dell'Artefice come Dado Vita ottiene il d10 invece del d8 essendo un Mezzo Incantatore.
 

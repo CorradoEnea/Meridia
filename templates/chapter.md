@@ -1,5 +1,5 @@
 ---
-title: Gilda degli Avventurieri
+title: 
 draft: false
 tags:
 ---
