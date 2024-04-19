@@ -37,58 +37,58 @@ Al 14° livello, la magia dello stregone diventa troppo potente per essere contr
 A partire dal 18° livello, l'energia primordiale degli incantesimi dello stregone si intensifica. Quando lo stregone tira per i danni di un incantesimo e ottiene il più alto numero possibile su qualsiasi dado, può tirare quei dadi di nuovo e aggiungere il nuovo risultato ai danni. Può utilizzare questo privilegio soltanto una volta per turno.
 
 ##### Impulsi di Magia Selvaggia
-| d100 | Effetto |
-|:----------------|:--|
-| 01-02 | Lo stregone tira su questa tabella all'inizio di ogni suo turno per il minuto successivo, ignorando questo risultato ai tiri successivi. |
-| 03-04 | Per il minuto successivo, lo stregone è in grado di vedere qualsiasi creatura invisibile, se dispone di linea di vista fino ad essa. |
-| 05-06 | Un modron scelto e controllato dal DM compare in uno spazio libero a 1,5 metri dallo stregone, poi scompare 1 minuto dopo.
-| 07-08 | Lo stregone lancia *palla di fuoco* come icnantesimo di 3° livello centrato su se stesso ma egli non subisce danni.
-| 09-10 | Lo stregone lancia *dardo incantato* come incantesimo di 5° livello. |
-| 11-12 | Lo stregone lancia un d10. Se il risultato è dispari diventa di una taglia più piccola, se è pari, diventa di una taglia più grande. |
-| 13-14 | Lo stregone lancia *confusione* centrato su se stesso. |
-| 15-16 | Per il minuto successivo, lo stregone recupera 5 punti ferita all'inizio di ogni suo turno. |
-| 17-18 | Lo stregone può usare un soffio draconico del Drago d'Ametista per 1 minuto. |
-| 19-20 | Lo stregone lancia l'incantesimo *unto*. |
-| 21-22 | Le creatura subiscono svantaggio ai tiri salvezza contro il prossimo incantesimo che sia lanciato dallo stregone nel minuto successivo e che richieda un tiro salvezza. |
-| 23-24 | La pelle dello stregone si tinge di una tonalità di verde. Un incantesimo *rimuovi maledizione* può porre termine a questo effetto. |
-| 25-26 | Un occhio appare sulla fronte dello stregone per il minuto successivo. Durante quel periodo, lo stregone dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista. |
-| 27-28 | Per il minuto successivo, tutti gli incantesimi dello stregone con il tempo di lancio pari a 1 azione possono essere lanciati anche con un azione bonus. |
-| 29-30 | Lo stregone si teletrasporta fino a 18 metri di distanza, in uno spazio libero a sua scelta che egli sia in grado di vedere. |
-| 31-32 | Lo stregone viene trasportato sul Piano Astrale fino alla fine del suo turno successivo, poi ritorna nello spazio che occupava in precedenza o nello spazio libero più vicino, se quello spazio è ora occupato. |
-| 33-34 | Lo stregone massimizza i danni del successivo incantesimo che infligge danni e che lancerà entro il minuto successivo. |
-| 35-36 | Lo stregone tira 1d4. Il risultato del tiro determina quante volte può lanciare il prossimo incantesimo senza usare punti mana. |
-| 37-38 | 1d6 flumph controllati dal DM appaiono su altrettanti spazi liberi entro 18 metri dallo stregone e sono spaventati da lui. Svaniscono dopo 1 minuto. |
-| 39-40 | Lo stregone recupera 2d10 punti ferita. |
-| 41-42 | Un oggetto magico casuale compare nelle mani dello stregone. |
-| 43-44 | Per il minuto successivo, lo stregone può teletrasportarsi di un massimo di 6 metri come azione bonus in ognuno dei suoi turni. |
-| 45-46 | Lo stregone lancia *armatura di Agathys* su se stesso. |
-| 47-48 | Un unicorno controllato dal DM appare in uno spazio etro 1,5 metri dallo stregone, poi scompare 1 minuto dopo. |
-| 49-50 | Lo stregone perde la voce per il minuto successivo ma può comunque lanciare gli incantesimi. |
-| 51-52 | Uno scudo spettrale fluttua accanto allo stregone per il minuto successivo, conferendogli un bonus di +2 alla CA e l'immunità a *dardo incantato*. |
-| 53-54 | Lo stregone è immune all'intossicazione alcolica per i 5d6 giorni successivi. |
-| 55-56 | Lo stregone lancia l'incantesimo *arma spirituale*. |
-| 57-58 | Per il minuto successivo, ogni effetto infiammabile toccato dallo stregone e che non sia indossato o trasportato da un'altra creatura prende fuoco. |
-| 59-60 | Lo stregone recupera i punti mana dell'incantesimo di livello più basso che ha speso. |
-| 61-62 | Per il minuto successivo, lo stregone deve gridare quando parla. |
-| 63-64 | Lo stregone lancia *nube di nebbia* centrato su se stesso. |
-| 65-66 | Fino a tre creature scelte dallo stregone e situate entro 9 metri da lui subiscono 4d10 danni da fulmine. |
-| 67-68 | Lo stregone prova a spaventare la creatura più vicina a lui fino alla fine del suo prossimo turno. La CD è quella dei tiri salvezza per gli incantesimi dello stregone. |
-| 69-70 | Ogni creatura entro 9 metri dallo stregone diventa invisibile per il minuto successivo. L'invisibilità su una creatura termina quando quella creatura attacca o lancia un incantesimo. |
-| 71-72 | Lo stregone ottiene resistenza a tutti i danni per il minuto successivo. |
-| 73-74 | Una creatura casuale entro 18 metri dallo stregone diventa avvelenata per 1d4 ore. |
+| d100  | Effetto                                                                                                                                                                                                                  |
+| :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-02 | Lo stregone tira su questa tabella all'inizio di ogni suo turno per il minuto successivo, ignorando questo risultato ai tiri successivi.                                                                                 |
+| 03-04 | Per il minuto successivo, lo stregone è in grado di vedere qualsiasi creatura invisibile, se dispone di linea di vista fino ad essa.                                                                                     |
+| 05-06 | Un modron scelto e controllato dal DM compare in uno spazio libero a 1,5 metri dallo stregone, poi scompare 1 minuto dopo.                                                                                               |
+| 07-08 | Lo stregone lancia *palla di fuoco* come icnantesimo di 3° livello centrato su se stesso ma egli non subisce danni.                                                                                                      |
+| 09-10 | Lo stregone lancia *dardo incantato* come incantesimo di 5° livello.                                                                                                                                                     |
+| 11-12 | Lo stregone lancia un d10. Se il risultato è dispari diventa di una taglia più piccola, se è pari, diventa di una taglia più grande.                                                                                     |
+| 13-14 | Lo stregone lancia *confusione* centrato su se stesso.                                                                                                                                                                   |
+| 15-16 | Per il minuto successivo, lo stregone recupera 5 punti ferita all'inizio di ogni suo turno.                                                                                                                              |
+| 17-18 | Lo stregone può usare un soffio draconico del Drago d'Ametista per 1 minuto.                                                                                                                                             |
+| 19-20 | Lo stregone lancia l'incantesimo *unto*.                                                                                                                                                                                 |
+| 21-22 | Le creatura subiscono svantaggio ai tiri salvezza contro il prossimo incantesimo che sia lanciato dallo stregone nel minuto successivo e che richieda un tiro salvezza.                                                  |
+| 23-24 | La pelle dello stregone si tinge di una tonalità di verde. Un incantesimo *rimuovi maledizione* può porre termine a questo effetto.                                                                                      |
+| 25-26 | Un occhio appare sulla fronte dello stregone per il minuto successivo. Durante quel periodo, lo stregone dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista.                                    |
+| 27-28 | Per il minuto successivo, tutti gli incantesimi dello stregone con il tempo di lancio pari a 1 azione possono essere lanciati anche con un azione bonus.                                                                 |
+| 29-30 | Lo stregone si teletrasporta fino a 18 metri di distanza, in uno spazio libero a sua scelta che egli sia in grado di vedere.                                                                                             |
+| 31-32 | Lo stregone viene trasportato sul Piano Astrale fino alla fine del suo turno successivo, poi ritorna nello spazio che occupava in precedenza o nello spazio libero più vicino, se quello spazio è ora occupato.          |
+| 33-34 | Lo stregone massimizza i danni del successivo incantesimo che infligge danni e che lancerà entro il minuto successivo.                                                                                                   |
+| 35-36 | Lo stregone tira 1d4. Il risultato del tiro determina quante volte può lanciare il prossimo incantesimo senza usare punti mana.                                                                                          |
+| 37-38 | 1d6 flumph controllati dal DM appaiono su altrettanti spazi liberi entro 18 metri dallo stregone e sono spaventati da lui. Svaniscono dopo 1 minuto.                                                                     |
+| 39-40 | Lo stregone recupera 2d10 punti ferita.                                                                                                                                                                                  |
+| 41-42 | Un oggetto magico casuale compare nelle mani dello stregone.                                                                                                                                                             |
+| 43-44 | Per il minuto successivo, lo stregone può teletrasportarsi di un massimo di 6 metri come azione bonus in ognuno dei suoi turni.                                                                                          |
+| 45-46 | Lo stregone lancia *armatura di Agathys* su se stesso.                                                                                                                                                                   |
+| 47-48 | Un unicorno controllato dal DM appare in uno spazio etro 1,5 metri dallo stregone, poi scompare 1 minuto dopo.                                                                                                           |
+| 49-50 | Lo stregone perde la voce per il minuto successivo ma può comunque lanciare gli incantesimi.                                                                                                                             |
+| 51-52 | Uno scudo spettrale fluttua accanto allo stregone per il minuto successivo, conferendogli un bonus di +2 alla CA e l'immunità a *dardo incantato*.                                                                       |
+| 53-54 | Lo stregone è immune all'intossicazione alcolica per i 5d6 giorni successivi.                                                                                                                                            |
+| 55-56 | Lo stregone lancia l'incantesimo *arma spirituale*.                                                                                                                                                                      |
+| 57-58 | Per il minuto successivo, ogni effetto infiammabile toccato dallo stregone e che non sia indossato o trasportato da un'altra creatura prende fuoco.                                                                      |
+| 59-60 | Lo stregone recupera i punti mana dell'incantesimo di livello più basso che ha speso.                                                                                                                                    |
+| 61-62 | Per il minuto successivo, lo stregone deve gridare quando parla.                                                                                                                                                         |
+| 63-64 | Lo stregone lancia *nube di nebbia* centrato su se stesso.                                                                                                                                                               |
+| 65-66 | Fino a tre creature scelte dallo stregone e situate entro 9 metri da lui subiscono 4d10 danni da fulmine.                                                                                                                |
+| 67-68 | Lo stregone prova a spaventare la creatura più vicina a lui fino alla fine del suo prossimo turno. La CD è quella dei tiri salvezza per gli incantesimi dello stregone.                                                  |
+| 69-70 | Ogni creatura entro 9 metri dallo stregone diventa invisibile per il minuto successivo. L'invisibilità su una creatura termina quando quella creatura attacca o lancia un incantesimo.                                   |
+| 71-72 | Lo stregone ottiene resistenza a tutti i danni per il minuto successivo.                                                                                                                                                 |
+| 73-74 | Una creatura casuale entro 18 metri dallo stregone diventa avvelenata per 1d4 ore.                                                                                                                                       |
 | 75-76 | Lo stregone risplende di luce intensa entro un raggio di 9 metri per il minuto successivo. Ogni creatura che termina il suo turno entro 1,5 metri dallo stregone è accecata fino alla fine del proprio turno successivo. |
-| 77-78 | Lo stregone lancia *metamorfosi* su se stesso. |
-| 79-80 | Farfalle e petali di fiori illusori fluttuano nell'aria entro 3 metri dallo stregone per il minuto successivo. |
-| 81-82 | Lo stregone può effettuare un'azione aggiuntiva immediatamente. |
-| 83-84 | Ogni creatura entro 9 metri dallo stregone subisce 1d10 danni necrotici. Lo stregone recupera un numero di punti ferita pari alla somma dei danni necrotici inferti. |
-| 85-86 | Lo stregone lancia *immagine speculare*. |
-| 87-88 | Lo stregone lancia *volare* su una creatura casuale situata entro 18 metri da lui. |
-| 89-90 | Lo stregone diventa invisibile per il minuto successivo. Durante quel periodo le altre creature non possono udirlo. L'invisibilità termina se lo stregone attacca o lancia un incantesimo. |
-| 91-92 | Se lo stregone muore entro il minuto successivo, torna in vita immediatamente, come per l'effetto dell'incantesimo *reincarnazione*.
-| 93-94 | La taglia dello stregone aumenta di una categoria per il minuto successivo.
-| 95-96 | Lo stregone e tutte le creature a 9 metri da lui ottengono resistenza ai danni perforanti per il minuto successivo. |
-| 97-98 | Lo stregone è circondato da una debole musica eterea per il minuto successivo.
-| 99-00 | Lo stregone recupera tutti i punti stregoneria spesi.
+| 77-78 | Lo stregone lancia *metamorfosi* su se stesso.                                                                                                                                                                           |
+| 79-80 | Farfalle e petali di fiori illusori fluttuano nell'aria entro 3 metri dallo stregone per il minuto successivo.                                                                                                           |
+| 81-82 | Lo stregone può effettuare un'azione aggiuntiva immediatamente.                                                                                                                                                          |
+| 83-84 | Ogni creatura entro 9 metri dallo stregone subisce 1d10 danni necrotici. Lo stregone recupera un numero di punti ferita pari alla somma dei danni necrotici inferti.                                                     |
+| 85-86 | Lo stregone lancia *immagine speculare*.                                                                                                                                                                                 |
+| 87-88 | Lo stregone lancia *volare* su una creatura casuale situata entro 18 metri da lui.                                                                                                                                       |
+| 89-90 | Lo stregone diventa invisibile per il minuto successivo. Durante quel periodo le altre creature non possono udirlo. L'invisibilità termina se lo stregone attacca o lancia un incantesimo.                               |
+| 91-92 | Se lo stregone muore entro il minuto successivo, torna in vita immediatamente, come per l'effetto dell'incantesimo *reincarnazione*.                                                                                     |
+| 93-94 | La taglia dello stregone aumenta di una categoria per il minuto successivo.                                                                                                                                              |
+| 95-96 | Lo stregone e tutte le creature a 9 metri da lui ottengono resistenza ai danni perforanti per il minuto successivo.                                                                                                      |
+| 97-98 | Lo stregone è circondato da una debole musica eterea per il minuto successivo.                                                                                                                                           |
+| 99-00 | Lo stregone recupera tutti i punti stregoneria spesi.                                                                                                                                                                    |
 ### L'imperituro
 La Sottoclasse dell'warlock *L'imperituro* della Guida degli Avventurieri alla Costa della Spada viene modificata come riportato qui:
 
@@ -128,3 +128,52 @@ Inoltre, il warlock invecchia a un ritmo più lento. Per ogni 10 anni che passan
 Il Warlock al 14° livello condivide alcuni dei segreti più potenti dell’Imperituro. Nel suo turno, può usare un’azione bonus per recuperare un ammontare di punti ferita pari a 1d8 + il suo livello da warlock. Inoltre, se mette una parte recisa del suo corpo al proprio posto quando usa questo privilegio, quella parte si riattacca. 
 
 Il warlock può usare questo privilegio un numero di volte pari al suo bonus competenza che si ricaricano quando completa un riposo lungo.
+
+### Cammino della Magia Selvaggia
+La Sottoclasse del barbaro *Cammino della Magia Selvaggia* del Calderone Omnicomprensivo di Tasha viene modificata come riportato qui:
+Molti luoghi del multiverso sono di straordinaria bellezza, traboccano di emozioni intense e magia inarrestabile: la Selva Fatata, i Piani Superiori e altri regni soprannaturali irradiano una tale forza da poter influenzare profondamente le creature. I barbari provano sentimenti profondi e sono particolarmente sensibili a queste influenze selvagge, perciò alcuni di loro vengono completamente trasformati dalla magia. Questi barbari pervasi dalla magia seguono il Cammino della Magia Selvaggia. Barbari elfi, tiefling, aasimar e genasi spesso percorrono questo cammino, desiderosi di manifestare la magia ultraterrena dei loro antenati.
+
+#### Consapevolezza Magica
+*Privilegio del Cammino della Magia Selvaggia di 3° livello*
+
+Con un'azione, il personaggio può percepire la presenza di una concentrazione di magia. Fino alla fine del suo turno successivo, il personaggio conosce la posizione di qualsiasi incantesimo oppure oggetto magico entro 18 metri da sé pure attraverso le superfici. Quando percepisce un incantesimo, scopre tutte le informazioni relative ad esso.
+
+Il personaggio può utilizzare questo privilegio un numero di volte pari al valore del suo bonus di competenza e recuperare tutti gli utilizzi spesi quando completa un riposo lungo.
+
+#### Impeto Selvaggio
+*Privilegio del Cammino della Magia Selvaggia di 3° livello*
+
+L'energia magica che ribolle dentro il barbaro a volte è incontenibile. Quando entra in ira, effettua un tiro sulla tabella "Magia Selvaggia" per determinare l'effetto magico prodotto.
+
+Se l'effetto richiede un turo salvezza, la CD è pari a 8 + il bonus di competenza del barbaro + il suo modificatore di Costituzione.
+
+| d8  | Effetto Magico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :-- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Viticci oscuri sferzano l'aria intorno al barbaro. Ogni creatura a sua scelta nel suo campo visivo entro 9 metri da lui deve superare un tiro salvezza su Costituzione o subire 4d12 danni necrotici. Il personaggio ottiene anche 4d12 punti ferita temporanei.                                                                                                                                                                                                                                                                                 |
+| 2   | Il barbaro si teletrasporta di un massimo di 18 metri fino a uno spazio libero che egli sia in grado di vedere. Ogni creatura in un raggio di 3 metri dal punto di arrivo del teletrasporto deve superare un tiro salvezza su Costituzione o subire 3d10 danni da forza. Finché è in ira, il barbaro può usare questo effetto in ognuno dei suoi turni come azione bonus.                                                                                                                                                                        |
+| 3   | Uno spirito incorporeo, simile a un flumph o un pixie (a scelta del personaggio), appare in uno spazio libero nel raggio di 1,5 metri da una delle creature a sua scelta che egli sia in grado di vedere entro 9 metri da lui. Al termine del turno attuale, lo spirito esplode e ogni creatura entro 3 metri da lui deve superare un tiro salvezza su Destrezza, altrimenti subisce 3d10 danni da forza. Finché è in ira, il barbaro può usare questo effetto nuovamente, evocando un altro spirito in ognuno dei suoi turni come azione bonus. |
+| 4   | La magia permea un'arma a scelta impugnata dal personaggio. Finché il barbaro è in ira, i danni inflitti dall'arma diventano da forza e infligge 2d8 danni extra. L'arma ottiene inoltre le proprietà leggera e da lancio, con una gittata normale di 6 metri e una gittata lunga di 18 metri. Se l'arma lascia la mano del giocatore, riappare nella sua mano alla fine del turno attuale.                                                                                                                                                      |
+| 5   | Ogni volta che una creatura colpisce il barbaro con un tiro per colpire mentre è ancora in ira, quella creatura subisce 2d12 danni da forza, poiché la magia si libera e la punisce.                                                                                                                                                                                                                                                                                                                                                             |
+| 6   | Finché il barbaro è in ira, è circondato da luci multicolori e protettive; ottiene un bonus di +3 alla CA e gli alleati che si trovano in un raggio di 3 metri da lui ottengono lo stesso bonus.                                                                                                                                                                                                                                                                                                                                                 |
+| 7   | Fiori e viti crescono temporaneamente intorno al barbaro; finché è in ira, il terreno entro 4,5 metri dal personaggio diventa un terreno difficile per i suoi nemici. Inoltre, ogni creatura che non sia il barbaro che finisce il turno in questo raggio, subisce 3d12 danni necrotici.                                                                                                                                                                                                                                                         |
+| 8   | Il barbaro scaglia un fulmine dal petto. Un'altra creatura a sua scelta nel suo campo visivo entro 18 metri deve superare un tiro salvezza su Costituzione o subire 5d6 danni radiosi e rimanere accecata fino al turno successivo del personaggio. Finché è in ira, il barbaro può usare questo effetto in ognuno dei suoi turni come azione bonus.                                                                                                                                                                                             |
+#### Magia Corroborante
+*Privilegio del Cammino della Magia Selvaggia di 6° livello*
+
+Il barbaro può sfruttare la sua magia selvaggia per rafforzare se stesso o un compagno. Con un'azione, può toccare una creatura (o anche se stesso) e conferirle uno dei seguenti benefici a sua scelta:
+- Per 10 minuti quella creatura può tirare un d8 ogni volta che effettua un tiro per colpire o una prova di caratteristica e aggiungere il risultato ottenuto al tiro del d20.
+- Il personaggio tira un d10. La creatura riguadagna uno slot incantesimo speso, il cui livello è uguale al numero ottenuto con il tiro o inferiore (a scelta della creatura).
+  Una volta che una creatura riceve questo vantaggio, non può ottenerlo di nuovo finché non completa un riposo lungo.
+Il personaggio può effettuare questa azione un numero di volte pari al valore del suo bonus di competenza e recupera tutti gli utilizzi spesi quando completa un riposo lungo.
+
+#### Reazione Instabile
+*Privilegio del Cammino della Magia Selvaggia di 10° livello*
+
+Se il barbaro è in pericolo mentre è in ira, la magia dentro di lui può scatenarsi; subito dopo aver subito danni o aver fallito un tiro salvezza durante l'ira, può usare la sua reazione per tirare sulla tabella "Magia Selvaggia" e sfruttare immediatamente l'effetto ottenuto. Questo effetto sostituisce quello della Magia Selvaggia attuale.
+
+#### Impeto Controllato
+*Privilegio del Cammino della Magia Selvaggia di 14° livello*
+
+Ogni volta che il barbaro tira sulla tabella "Magia Selvaggia", può lanciare due volte il dado e scegliere quale dei due effetti sfruttare. Se ottiene lo stesso numero su entrambi i dadi, può ignorare il risultato e scegliere l'effetto della tabella che preferisce.
+
+Inoltre, ogni volta che tira sulla tabella "Magia Selvaggia", il barbaro recupera 1d8 + il modificatore di Costituzione punti ferita.
