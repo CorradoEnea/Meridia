@@ -1,5 +1,0 @@
-### Sterminatore di Maghi
-Il personaggio ha imparato varie tecniche utili nei combattimenti in mischia contro gli incantatori e ottiene i benefici seguenti:
-- Quando una creatura entro 5 metri da te vuole lanciare un incantesimo, egli può usare la sua reazione per effettuare un attacco con un'arma da mischia contro quella creatura prima che l'incantesimo sia lanciato e se colpisce la creatura deve effettuare un tiro salvezza su Costituzione come se si stesse concentrando sull'incantesimo e se fallisce perde l'incantesimo.
-- Quando infligge danni su una creatura concentrata su un incantesimo, quella creatura subisce svantaggio al tiro salvezza che effettua per mantenere la concentrazione.
-- Dispone di vantaggio ai tiri salvezza contro gli incantesimi lanciati dalle creature entro 1,5 metri da lui.
